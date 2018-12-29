@@ -1,0 +1,51 @@
+body{
+    font-family: 'Titillium Web';
+}
+
+.header{
+    text-align: center
+}
+
+.legend{
+    font-style: italic;
+    font-size: 14px;
+    color: lightslategrey;
+}
+
+.content {
+    margin-top: 20px;
+}
+
+label {
+    margin-right: 10px;
+}
+
+table th, input[type='text'], td {
+    text-align: center;
+}
+
+table {
+    margin-top: 20px;
+}
+
+.general-element {
+    background-color: lightgreen;
+    font-weight: bold;
+}
+
+td:last-child {
+    text-align: center;
+}
+
+hr {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.btn-success {
+    margin-bottom: 20px;
+}
+
+.calculations {
+    font-size: 16px;
+}
